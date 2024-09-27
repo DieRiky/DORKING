@@ -1,0 +1,26 @@
+inurl:chat site:*.edu ext:txt
+inurl:chat site:*.edu.* ext:txt
+inurl:chat site:*.gov ext:txt
+inurl:chat site:*.gov.* ext:txt
+inurl:chat site:*.domain.com ext:txt
+inurl:chat site:*.edu ext:log
+inurl:chat site:*.edu.* ext:log
+inurl:chat site:*.gov ext:log
+inurl:chat site:*.gov.* ext:log
+inurl:chat site:*.domain.com ext:log
+
+
+DevOps Engineer at mux.com
+Backend Developer at mux.com
+Site Reliability Engineer at mux.com
+Cloud Solutions Architect at mux.com
+Data Engineer at mux.com
+software eginer at mux.com
+
+site:github.com
+site:linkedin.com
+site:medium.com "web cache" "XSS"
+
+
+
+http.title:"IIS"
